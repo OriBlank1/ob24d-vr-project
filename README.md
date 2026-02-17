@@ -1,5 +1,7 @@
 **TEXTURES**
 
+Wood planks: https://polyhaven.com/a/wood_planks
+
 --------------------------------------------------
 **MODELS**
 
