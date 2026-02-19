@@ -1,5 +1,7 @@
 **TEXTURES**
 
+Plastered wall: https://polyhaven.com/a/plastered_wall
+
 Wood planks: https://polyhaven.com/a/wood_planks
 
 --------------------------------------------------
