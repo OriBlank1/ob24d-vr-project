@@ -11,4 +11,6 @@ Desk: https://assetstore.unity.com/packages/3d/props/furniture/desks-starter-col
 
 Fan: https://assetstore.unity.com/packages/3d/props/electronics/3d-ceiling-fans-pack-358516
 
+Computer pack: https://assetstore.unity.com/packages/3d/props/electronics/computer-devices-165051
+
 --------------------------------------------------
