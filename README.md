@@ -21,4 +21,6 @@ TV: https://assetstore.unity.com/packages/3d/props/electronics/tv-led-30-336056
 
 Rug: https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178
 
+Waste bin: https://assetstore.unity.com/packages/3d/props/waste-bin-73303
+
 --------------------------------------------------
