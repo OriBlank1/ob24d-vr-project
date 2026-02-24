@@ -19,4 +19,6 @@ Office chair: https://assetstore.unity.com/packages/3d/props/interior/office-cha
 
 TV: https://assetstore.unity.com/packages/3d/props/electronics/tv-led-30-336056
 
+Rug: https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178
+
 --------------------------------------------------
