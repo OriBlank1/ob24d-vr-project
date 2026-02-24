@@ -13,6 +13,10 @@ Desk: https://assetstore.unity.com/packages/3d/props/furniture/desks-starter-col
 
 Fan: https://assetstore.unity.com/packages/3d/props/electronics/3d-ceiling-fans-pack-358516
 
-Computer pack: https://assetstore.unity.com/packages/3d/props/electronics/computer-devices-165051
+Computer pack (monitor, router, phone): https://assetstore.unity.com/packages/3d/props/electronics/computer-devices-165051
+
+Office chair: https://assetstore.unity.com/packages/3d/props/interior/office-chair-pack-248419
+
+TV: https://assetstore.unity.com/packages/3d/props/electronics/tv-led-30-336056
 
 --------------------------------------------------
