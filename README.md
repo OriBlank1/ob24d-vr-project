@@ -27,4 +27,6 @@ Dartboard: https://polyhaven.com/a/dartboard
 
 Console: https://assetstore.unity.com/packages/3d/props/electronics/white-gaming-console-52363
 
+Boombox: https://polyhaven.com/a/boombox
+
 --------------------------------------------------
