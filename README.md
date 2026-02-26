@@ -33,6 +33,6 @@ Wooden furniture pack: https://assetstore.unity.com/packages/3d/props/furniture/
 
 Potted plant: https://polyhaven.com/a/potted_plant_02
 
-Books
+Books: https://polyhaven.com/a/book_encyclopedia_set_01
 
 --------------------------------------------------
