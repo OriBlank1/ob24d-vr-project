@@ -25,4 +25,6 @@ Waste bin: https://assetstore.unity.com/packages/3d/props/waste-bin-73303
 
 Dartboard: https://polyhaven.com/a/dartboard
 
+Console: https://assetstore.unity.com/packages/3d/props/electronics/white-gaming-console-52363
+
 --------------------------------------------------
