@@ -35,4 +35,6 @@ Potted plant: https://polyhaven.com/a/potted_plant_02
 
 Books: https://polyhaven.com/a/book_encyclopedia_set_01
 
+Chess set: https://polyhaven.com/a/chess_set
+
 --------------------------------------------------
