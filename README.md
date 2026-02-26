@@ -29,4 +29,6 @@ Console: https://assetstore.unity.com/packages/3d/props/electronics/white-gaming
 
 Boombox: https://polyhaven.com/a/boombox
 
+Wooden furniture pack: https://assetstore.unity.com/packages/3d/props/furniture/wooden-furniture-pack-lite-330666
+
 --------------------------------------------------
